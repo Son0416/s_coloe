@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Noto+Serif+KR:wght@300;400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", "Noto Serif KR", ui-serif, Georgia, serif;
+  --font-sans: "Noto Serif KR", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-natural-bg: #F8F5F2;
+  --color-natural-ink: #2D2926;
+  --color-natural-accent: #E89E8D;
+  --color-natural-card: #FFFFFF;
+  --color-natural-sage: #8A9A5B;
+  --color-natural-tag: #EFECE8;
+  --color-natural-tip: #F0F2EA;
+}

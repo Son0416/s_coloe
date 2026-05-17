@@ -1,0 +1,10 @@
+{
+  "name": "ColorMatch AI",
+  "description": "Professional Personal Color Analysis using AI. Discover your perfect palette, makeup, and style recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
